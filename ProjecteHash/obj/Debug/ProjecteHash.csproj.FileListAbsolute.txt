@@ -1,0 +1,7 @@
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\bin\Debug\ProjecteHash.exe.config
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\bin\Debug\ProjecteHash.exe
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\bin\Debug\ProjecteHash.pdb
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\obj\Debug\ProjecteHash.csproj.AssemblyReference.cache
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\obj\Debug\ProjecteHash.csproj.CoreCompileInputs.cache
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\obj\Debug\ProjecteHash.exe
+C:\Users\Zenonrp\source\repos\ProjecteHash\ProjecteHash\obj\Debug\ProjecteHash.pdb
